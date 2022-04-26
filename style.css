@@ -219,12 +219,14 @@
     height: 70px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;   
+}
+
+.author span{
     color: #817070;
     font-weight: 700;
     font-size: 20px;
+    font-style: italic;
     text-transform: uppercase;
 }
-
-
 
